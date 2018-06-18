@@ -7,6 +7,8 @@ This application is composed by a Angular 6 website and a .NET Core back-end.
 The front-end is not working anymore. You have to fix the bugs and make sure that the books are correctly displayed.
 The url of the backend is: http://hackages-bookstore-api.azurewebsites.net/api/v1/
 
+[Here](http://hackages-bookstore-api.azurewebsites.net/swagger/) you can find the api description.
+
 # Bonus
 
 ## Search Component
