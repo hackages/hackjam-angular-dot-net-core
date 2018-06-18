@@ -2,10 +2,10 @@
 
 
 # TODO
-Cette application est composée d'un frontend en Angular 6 et un backend en .NET Core.
+This application is composed by a Angular 6 website and a .NET Core back-end.
 
-Le frontend ne fonctionne pas. Il faut fixer les bugs et s'assurer que les livres s'affichent correctement.
-L'url du backend est : http://hackages-bookstore-api.azurewebsites.net/api/v1/
+The front-end is not working anymore. You have to fix the bugs and make sure that the books are correctly displayed.
+The url of the backend is: http://hackages-bookstore-api.azurewebsites.net/api/v1/
 
 # Bonus
 
